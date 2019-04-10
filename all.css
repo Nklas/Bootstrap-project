@@ -1,0 +1,150 @@
+.bg-header {
+  background: url(images/bg_header.jpg) no-repeat;
+  background-size: cover;
+  padding-top: 220px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+.block2 {
+   padding-top: 120px;
+   padding-left: 90px;
+}
+.block-right {
+  padding: 0;
+}
+.bg-features {
+  background: url(images/bg-features.png) no-repeat;
+  text-align: center;
+  background-size: cover;
+  padding-bottom: 100px;
+  padding-top: 150px;
+}
+.bg_notebook {
+  background: url(images/notebook-1.png) no-repeat;
+  background-size: cover;
+  padding-bottom: 200px;
+  padding-top: 100px;
+}
+.align-right {
+  float: right;
+}
+.bg-clients {
+  background: url(images/clients.png) no-repeat;
+  padding-bottom: 220px;
+  background-size: cover;
+  text-align: center;
+  padding-top: 120px;
+  color: #9fa0a2;
+}
+.description-name {
+  color: white;
+}
+.bg-browser {
+  background: url(images/browser.png) no-repeat;
+  padding-bottom: 350px;
+  background-size: cover;
+  text-align: center;
+  padding-top: 110px;
+}
+.bg-designers {
+  background: url(images/designers.png) no-repeat;
+  padding-bottom: 100px;
+  background-size: cover;
+  text-align: center;
+  padding-top: 100px;
+}
+.description-freetrial {
+  color: white;
+}
+.p-input {
+  color: #a8aabc;
+}
+.input_a {
+  color: #a8aabc;
+}
+.description-h2 {
+  color: white;
+}
+.bg_footer {
+  background: url(images/bg_footer.png) no-repeat;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 50px;
+  padding-right: 100px;
+  overflow: hidden;
+}
+.description-start-block1 {
+  background: url(images/bg_E.png) no-repeat;
+  background-position-x: 95px;
+  background-position-y: 9px;
+  float: left;
+}
+ul {
+  list-style: none;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+}
+.white {
+  color: white;
+}
+span {
+  color: red;
+}
+.btn-3 {
+  background: url(images/email-submit.png) no-repeat;
+  background-position: center;
+  margin: 0 auto;
+  outline: none;
+  border: 0;
+  font-size: 16px;
+  padding: 18px;
+  width: 40px;
+  height: 36px;
+}
+.align-center {
+  text-align: center;
+}
+.play-btn {
+  padding: 30px;
+}
+@media (max-width: 575px) {
+  .hidden-sm {
+    display: none;
+  }
+  .hidden1-sm {
+    padding-top: 20px;
+    font-size: 12px;
+  }
+  .footer-sm {
+    font-size: 12px;
+    padding: 0;
+  }
+  .align-right {
+    float: none;
+  }
+  .bg-browser {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .block-left-small {
+    padding: 10px;
+  }
+}
+input {
+  margin: 12px auto;
+}
+.form-padding {
+  padding: 10px;
+}
+.description-freetrial {
+  margin: 25px auto;
+}
+.p-input {
+  margin: 20px;
+}
